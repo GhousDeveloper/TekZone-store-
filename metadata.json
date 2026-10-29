@@ -1,0 +1,6 @@
+{
+  "name": "TekZone — Better Tech • Better Life",
+  "description": "Complete multi-category e-commerce marketplace for flagship electronics, smart gadgets, gaming gear, fashion, home appliances, beauty, and sports essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
